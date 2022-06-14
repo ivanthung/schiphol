@@ -1,8 +1,9 @@
 # schiphol
-Analysing carrier movements in Schiphol.
+Analysing carrier movements in Schiphol in a simple notebook.
 Calls from OpenSky API
 
-Goals:
-- Learning to work with API's.
+**Goals:
+
 - Analysing what carriers get what timeslots in the last 7 days.
-- Keeping track of work in a structured way.
+- Conclusion: local carriers get assigned signifcant priority within airports in Europe, whereas in the US, more competition appears to be present for timeslots.
+
